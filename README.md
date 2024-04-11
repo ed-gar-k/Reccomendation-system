@@ -22,13 +22,14 @@ The primary goal of this project is to recommend the top 5 movies to Money-Team 
 # Data Understanding
 The project utilizes the MovieLens dataset, a rich and diverse collection of movie ratings, links, genres, and tags. This dataset serves as the backbone for our recommendation system, providing valuable insights into user preferences and movie characteristics. Through exploratory data analysis (EDA), we gain a deeper understanding of the dataset's structure, distribution, and missing values, laying the foundation for building robust recommendation models.
 
-#Recommendation Models
+# Recommendation Models
 The repository contains implementations of various recommendation models, including:
 
 User-Item Collaborative Filtering using Singular Value Decomposition (SVD)
 Item-Item Collaborative Filtering with cosine similarity
 User-User Collaborative Filtering using Pearson correlation
 These models leverage different algorithms and similarity metrics to generate personalized movie recommendations for users, enhancing their movie-watching experience on GiggleStream.
+
 
 # How to Use
 To use the GiggleStream Movie Recommendation System:
