@@ -16,8 +16,7 @@ Welcome to the GiggleStream Movie Recommendation System repository! This project
 5. [How to Use](#how-to-use)
 6. [Dependencies](#dependencies)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Findings](#findings)
+8. [Findings](#findings)
 
 ## Business Understanding
 
@@ -73,7 +72,7 @@ We welcome contributions from the community to enhance the GiggleStream Movie Re
 
 ## Findings
 
-Our recommendation system with tuned parameters using GridSearch achieved the lowest RMSE of 0.86 from the other models used. This demonstrated significant promise in providing accurate and effective recommendations to users. Throughout the evaluation process, we thoroughly assessed the system's performance, strengths, weaknesses, and potential areas for improvement. Key performance metrics, including RMSE, precision, and recall, were meticulously monitored and evaluated to gauge the system's effectiveness in generating high-quality recommendations.
+Our recommendation system with tuned parameters using GridSearch, achieved the lowest RMSE of 0.86 from the other models used. This demonstrated significant promise in providing accurate and effective recommendations to users. Throughout the evaluation process, we thoroughly assessed the system's performance, strengths, weaknesses, and potential areas for improvement. Key performance metrics, including RMSE, precision, and recall, were meticulously monitored and evaluated to gauge the system's effectiveness in generating high-quality recommendations.
 
 ### Weaknesses and Limitations
 
