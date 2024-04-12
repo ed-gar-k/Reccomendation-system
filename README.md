@@ -1,4 +1,4 @@
-# Reccomendation-system
+# Recommendation-system
 recommendation system project
 # GiggleStream Movie Recommendation System
 ## Overview
