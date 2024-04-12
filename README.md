@@ -25,7 +25,7 @@ In today's competitive streaming industry, user engagement and satisfaction are 
 
 ## Problem Statement
 
-The primary goal of this project is to recommend the top 5 movies to Money-Team Co$ users based on customer ratings of other movies. By leveraging collaborative filtering techniques and advanced algorithms, we seek to enhance user satisfaction, engagement, and retention on the GiggleStream platform.
+The primary goal of this project is to recommend the top 5 movies to GiggleStream users based on customer ratings of other movies. By leveraging collaborative filtering techniques and advanced algorithms, we seek to enhance user satisfaction, engagement, and retention on the GiggleStream platform.
 
 ## Data Understanding
 
